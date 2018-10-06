@@ -1,0 +1,4 @@
+# mybatis-generatorConfig
+mybaties反向生成工程
+
+使用时修改根目录的xml文件的jdbcConnection修改指向需要反向生成的数据库, table标签表示生成哪张表可写多个
